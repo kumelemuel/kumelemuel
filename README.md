@@ -56,3 +56,5 @@ Todo es honesto.
 ---
 
 ✨ *kumelemuel es la conciencia desde la que el software se escribe con proposito e intención.*
+
+![Profile views](https://komarev.com/ghpvc/?username=kumelemuel&style=flat)
