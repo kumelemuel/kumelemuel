@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Soy kumelemuel
 
-<!--
-**kumelemuel/kumelemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*kumelemuel* es el alter ego de **Diego Arenas**.  
+La parte consciente, ética y humana de un  
+**Ingeniero de Software**.
 
-Here are some ideas to get you started:
+Aquí habitan el criterio técnico, la curiosidad constante  
+y el respeto profundo por el oficio de construir software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Qué hago
+
+- Construyo **sistemas web robustos**, legibles y escalables  
+- Diseño **arquitecturas que resisten el tiempo y el cambio**
+- Escribo código pensando en **quien vendrá después**
+- Aplico **clean code, principios y buenas prácticas** como base del diseño
+- Trabajo con **TDD** y utilizo **DDD** cuando el dominio lo requiere
+- Lidero desde la técnica cuando el contexto lo necesita
+- Exploro el **diseño y desarrollo de videojuegos sin utilizar engines**
+
+---
+
+## 🛠️ Dominio técnico
+
+**Frontend**
+- JavaScript / TypeScript · Vue · React · Angular  
+- HTML · CSS · Tailwind
+
+**Backend**
+- Rust · PHP · Node.js  
+- APIs REST · Arquitectura limpia
+
+**Infra & Datos**
+- SQL / NoSQL · Docker · Git
+
+---
+
+## 🔍 Filosofía
+
+> El código es una forma de lenguaje, por lo tanto es un trabajo social y colectivo.
+> Si no puede leerse, no puede cuidarse.
+
+---
+
+## 📂 Este perfil
+
+Este espacio es para:
+- Proyectos personales
+- Ideas en evolución
+- Decisiones técnicas bien pensadas
+
+No todo es perfecto.  
+Todo es honesto.
+
+---
+
+✨ *kumelemuel es la conciencia desde la que el software se escribe con proposito e intención.*
