@@ -1,6 +1,6 @@
-# 👋 Soy kumelemuel
+# :sparkles: kumelemuel
 
-*kumelemuel* es el alter ego de **Diego Arenas**.  
+*kumelemuel* es el alter ego de [**Diego Arenas**](https://www.linkedin.com/in/diego-arenas-75043b151/).  
 La parte consciente, ética y humana de un  
 **Ingeniero de Software**.
 
