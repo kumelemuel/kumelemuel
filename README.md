@@ -1,11 +1,9 @@
 # :sparkles: kumelemuel
 
 *kumelemuel* es el alter ego de [**Diego Arenas**](https://www.linkedin.com/in/diego-arenas-75043b151/).  
-La parte consciente, ética y humana de un  
-**Ingeniero de Software**.
+La parte consciente, ética y humana de un  **Ingeniero de Software**.
 
-Aquí habitan el criterio técnico, la curiosidad constante  
-y el respeto profundo por el oficio de construir software.
+Las bases de este perfil son el criterio técnico, el aprendizaje constante  y el respeto profundo por el oficio de construir software.
 
 ---
 
@@ -38,6 +36,7 @@ y el respeto profundo por el oficio de construir software.
 
 ## 🔍 Filosofía
 
+> Bien utilizar la tecnologia para construir una realidad mas equitativa y justa.
 > El código es una forma de lenguaje, por lo tanto es un trabajo social y colectivo.
 > Si no puede leerse, no puede cuidarse.
 
