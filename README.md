@@ -52,3 +52,5 @@ Aquí viven:
 - Infraestructura experimental  
 - Marcos de gobernanza  
 - Decisiones técnicas bien pensadas  
+
+![Profile views](https://komarev.com/ghpvc/?username=kumelemuel&style=flat)
