@@ -1,59 +1,54 @@
-# :sparkles: kumelemuel
+# Kumelemuel
 
-*kumelemuel* es el alter ego de [**Diego Arenas**](https://www.linkedin.com/in/diego-arenas-75043b151/).  
-La parte consciente, ética y humana de un  **Ingeniero de Software**.
-
-Las bases de este perfil son el criterio técnico, el aprendizaje constante  y el respeto profundo por el oficio de construir software.
+Es un artesano de sistemas humanos.  
+Construye software con intención estructural, entendiendo que las reglas y el diseño moldean comportamiento, cultura y comunidad.
 
 ---
 
-## 🧠 Qué hago
+## 🧠 En qué trabajo
 
-- Construyo **sistemas web robustos**, legibles y escalables  
-- Diseño **arquitecturas que resisten el tiempo y el cambio**
-- Escribo código pensando en **quien vendrá después**
-- Aplico **clean code, principios y buenas prácticas** como base del diseño
-- Trabajo con **TDD** y utilizo **DDD** cuando el dominio lo requiere
-- Lidero desde la técnica cuando el contexto lo necesita
-- Exploro el **diseño y desarrollo de videojuegos sin utilizar engines**
+- Diseño sistemas que priorizan claridad sobre complejidad innecesaria  
+- Construyo software que pueda mantenerse sin vigilancia constante  
+- Pienso primero en gobernanza, luego en funcionalidades  
+- Escribo y reflexiono sobre arquitectura, incentivos y comunidad  
 
----
-
-## 🛠️ Dominio técnico
-
-**Frontend**
-- JavaScript / TypeScript · Vue · React · Angular  
-- HTML · CSS · Tailwind
-
-**Backend**
-- Rust · PHP · Node.js  
-- APIs REST · Arquitectura limpia
-
-**Infra & Datos**
-- SQL / NoSQL · Docker · Git
+**Foco actual:** comunidades auto-gobernables.  
+> La libertad necesita arquitectura.
 
 ---
 
-## 🔍 Filosofía
+## 🛠️ En lo técnico
 
-> Bien utilizar la tecnologia para construir una realidad mas equitativa y justa.
-> El código es una forma de lenguaje, por lo tanto es un trabajo social y colectivo.
-> Si no puede leerse, no puede cuidarse.
+### Frontend
+JavaScript · TypeScript · Vue · React · Angular  
 
----
+### Backend
+Rust · Node.js  
 
-## 📂 Este perfil
-
-Este espacio es para:
-- Proyectos personales
-- Ideas en evolución
-- Decisiones técnicas bien pensadas
-
-No todo es perfecto.  
-Todo es honesto.
+### Arquitectura
+- Arquitectura Hexagonal
+- DDD cuando el dominio lo exige  
+- TDD como disciplina  
+- Sistemas diseñados para evolucionar 
 
 ---
 
-✨ *kumelemuel es la conciencia desde la que el software se escribe con proposito e intención.*
+## 🔍 Principios
+ 
+- La claridad es una forma de respeto.  
+- El error es parte del proceso, si deja aprendizaje.  
+- Open source implica responsabilidad, no solo visibilidad.  
 
-![Profile views](https://komarev.com/ghpvc/?username=kumelemuel&style=flat)
+El software no es solo técnica.  
+Es una herramienta cultural.
+
+---
+
+## 📂 Este espacio
+
+Aquí viven:
+
+- Proyectos propios  
+- Infraestructura experimental  
+- Marcos de gobernanza  
+- Decisiones técnicas bien pensadas  
