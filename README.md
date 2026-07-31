@@ -20,7 +20,7 @@ Artesano de Software.
 TypeScript · Vue.js · React · Angular · Astro
 
 ### Backend & Runtime
-Perl · PHP · Rust · Node.js
+Perl · PHP · Rust · Node.js · C++ · Kotlin
 
 ### Mobile
 Flutter · React Native / Expo
