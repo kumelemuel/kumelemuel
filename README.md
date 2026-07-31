@@ -1,56 +1,55 @@
 # Kumelemuel
 
-Es un artesano de sistemas humanos.  
-Construye software con intención estructural, entendiendo que las reglas y el diseño moldean comportamiento, cultura y comunidad.
+Artesano de Software.
 
 ---
 
-## 🧠 En qué trabajo
+## Áreas de Enfoque
 
-- Diseño sistemas que priorizan claridad sobre complejidad innecesaria  
-- Construyo software que pueda mantenerse sin vigilancia constante  
-- Pienso primero en gobernanza, luego en funcionalidades  
-- Escribo y reflexiono sobre arquitectura, incentivos y comunidad  
-
-**Foco actual:** comunidades auto-gobernables.  
-> La libertad necesita arquitectura.
+- Arquitectura de Software: Diseño orientado a la minimización del acoplamiento y la maximización de la cohesión.
+- Mantenibilidad: Código escrito para ser leído, testeado y mantenido sin requerir intervención continua ni parches de emergencia.
+- Gobernanza de Sistemas: Priorización de reglas de dominio, invariantes e incentivos estructurales sobre la acumulación indeseada de funcionalidades.
+- Análisis de Arquitectura: Documentación de decisiones de diseño (ADRs), análisis de patrones y evaluación de impacto en sistemas distribuidos y comunidades.
+- Spec-Driven Development (SDD) & AI-Assisted Engineering: Uso de Inteligencia Artificial como multiplicador de rendimiento, supeditado estrictamente a especificaciones formales previas. (Fase de experimentación)
 
 ---
 
-## 🛠️ En lo técnico
+## Dominio Técnico
 
 ### Frontend
-JavaScript · TypeScript · Vue · React · Angular  
+TypeScript · Vue.js · React · Angular · Astro
 
-### Backend
-Rust · Node.js  
+### Backend & Runtime
+Perl · PHP · Rust · Node.js
 
-### Arquitectura
-- Arquitectura Hexagonal
-- DDD cuando el dominio lo exige  
-- TDD como disciplina  
-- Sistemas diseñados para evolucionar 
+### Mobile
+Flutter · React Native / Expo
 
----
-
-## 🔍 Principios
- 
-- La claridad es una forma de respeto.  
-- El error es parte del proceso, si deja aprendizaje.  
-- Open source implica responsabilidad, no solo visibilidad.  
-
-El software no es solo técnica.  
-Es una herramienta cultural.
+### Arquitectura & Prácticas de Ingeniería
+- Arquitectura Hexagonal (Puertos y Adaptadores): Aislamiento estricto de la lógica de negocio frente a detalles de infraestructura.
+- Domain-Driven Design (DDD): Modelado explícito del dominio cuando la complejidad del problema justifica la sobrecarga cognitiva.
+- Test-Driven Development (TDD): Ciclos de refactorización disciplinados como estándar de calidad no negociable.
+- Evolución de Sistemas: Estrategias de refactorización continua para mitigar la entropía del software.
 
 ---
 
-## 📂 Este espacio
+## Principios de Diseño
 
-Aquí viven:
+- La claridad técnica reduce el costo de mantenimiento.
+- El fallo debe ser explícito, rastreable y utilizado para ajustar la suite de pruebas y los invariantes del sistema.
+- El desarrollo Open Source requiere responsabilidad sobre el ciclo de vida del código, el mantenimiento de APIs públicas y la estabilidad retrocompatible.
 
-- Proyectos propios  
-- Infraestructura experimental  
-- Marcos de gobernanza  
-- Decisiones técnicas bien pensadas  
+El software es un sistema explícito de reglas ejecutables. Si la arquitectura subyacente es deficiente, la ejecución fallará independientemente de las intenciones del equipo.
+
+---
+
+## Estructura del Repositorio
+
+Este perfil contiene:
+
+- Implementaciones de referencia y proyectos de código abierto.
+- Infraestructura experimental y pruebas de concepto.
+- Modelos formales de gobernanza y especificaciones de dominio.
+- Registro de decisiones de arquitectura y patrones de software.
 
 ![Profile views](https://komarev.com/ghpvc/?username=kumelemuel&style=flat)
